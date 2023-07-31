@@ -1,0 +1,15 @@
+/* Importação de fontes para usar no projeto */
+@font-face {
+  font-family: 'mark-pro-bold';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('../../../files/fonts/mark-pro-bold.woff') format('woff');
+}
+@font-face {
+  font-family: 'mark-pro-regular';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('../../../files/fonts/mark-pro-regular.woff') format('woff');
+}
