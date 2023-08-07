@@ -3,5 +3,5 @@
 ![PRINT DO SITE](https://github.com/figueredorv/links/assets/15824884/4e76a06e-abe2-4583-b8e8-0858aa9b3dc2)
 
 DEMOSTRAÇÃO:
-[DEMOSTRAÇÃO](https://figueredorv.github.io/links/)
+[ACESSE](https://figueredorv.github.io/links/)
 
