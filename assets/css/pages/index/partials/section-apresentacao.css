@@ -1,3 +1,4 @@
+
 /* <section class="apresentacao"> */
 section.apresentacao {
   display: flex;
@@ -187,11 +188,13 @@ section.apresentacao .conteudo .links a.destaque {
   flex-direction: column;
   align-items: center;
   text-align: center;
+  
 }
 section.apresentacao .conteudo .links a.destaque .texto {
   padding: 20px;
   align-items: center;
   text-align: center;
+  
 }
 section.apresentacao .conteudo .links a.destaque:hover h4 {
   background-color: var(--cor-branco);
